@@ -1,4 +1,4 @@
 # Ticket-Taco-Toe
 
-Installation: 
+Installation:   
 `$ npm i -g ticket-taco-toe'
